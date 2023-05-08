@@ -5,4 +5,5 @@ scikit-learn
 scipy
 catboost
 xgboost
+Flask
 -e .
